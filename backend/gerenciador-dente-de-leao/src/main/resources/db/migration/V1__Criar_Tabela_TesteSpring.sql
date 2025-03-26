@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS testeSpring (
+    id SERIAL PRIMARY KEY,
+    nome VARCHAR(100),
+);
